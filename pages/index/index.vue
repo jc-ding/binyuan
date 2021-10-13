@@ -1,0 +1,43 @@
+<template>
+	<view>
+		<image src="../../static/lunbo.jpeg" mode="widthFix"></image>
+		<view class="center padding20">
+			<view class="border padding20" style="width: 345rpx; height: 150rpx; background-color: red; color: #FFFFFF;">
+				<view>
+					商家入驻
+				</view>
+				<view class="border">
+					开始入驻
+				</view>
+			</view>
+			<view class="border padding20" style="width: 345rpx; height: 150rpx; background-color: red; margin-left: auto; color: #FFFFFF;">
+				<view>
+					商家入驻
+				</view>
+				<view class="border">
+					开始入驻
+				</view>
+			</view>
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				title: "Hello World"
+			}
+		},
+		onLoad() {
+			
+		},
+		methods: {
+			
+		}
+	}
+</script>
+
+<style>
+
+</style>
