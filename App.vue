@@ -43,6 +43,12 @@
 	}
 	.border{
 		border-radius: 10rpx;
+		border: 1rpx solid #f2f2f2;
+	}
+	.logo{
+		border-radius: 50%;
+		width: 100rpx;
+		height: 100rpx;
 	}
 	.boxshow{
 	  box-shadow: 0 0 5rpx #888888;
