@@ -8528,9 +8528,9 @@ function walkJsonObj(jsonObj, walk) {
 
 /***/ }),
 /* 5 */
-/*!****************************************************************!*\
-  !*** D:/用户目录/我的文档/HBuilderProjects/binyuan/binyuan/pages.json ***!
-  \****************************************************************/
+/*!*********************************!*\
+  !*** E:/Vue/binyuan/pages.json ***!
+  \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

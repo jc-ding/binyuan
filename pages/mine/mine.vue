@@ -1,7 +1,7 @@
 <template>
 	<view>
 		<view class="center padding20" style="background-color: red; color: #FFFFFF;">
-			<image class="logo" src="../../static/logo.jpg" mode="" />
+			<image class="logo" src="../../static/logo.png" mode="" />
 			<view class="" style="margin-left: 20rpx;">
 				<view class="">典韦</view>
 				<view class="">UID: 111111</view>

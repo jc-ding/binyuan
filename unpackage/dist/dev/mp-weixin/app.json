@@ -1,35 +1,35 @@
 {
-    "pages": [
-        "pages/index/index",
-        "pages/mine/mine"
-    ],
-    "subPackages": [],
-    "window": {
-        "navigationBarTextStyle": "black",
-        "navigationBarTitleText": "uni-app",
-        "navigationBarBackgroundColor": "#F8F8F8",
-        "backgroundColor": "#F8F8F8"
-    },
-    "tabBar": {
-        "backgroundColor": "#fafafa",
-        "borderStyle": "white",
-        "selectedColor": "#AB956D",
-        "color": "#666",
-        "list": [
-            {
-                "selectedIconPath": "static/index-on.png",
-                "iconPath": "static/index-off.png",
-                "pagePath": "pages/index/index",
-                "text": "首页"
-            },
-            {
-                "selectedIconPath": "static/mine-on.png",
-                "iconPath": "static/mine-off.png",
-                "pagePath": "pages/mine/mine",
-                "text": "我的"
-            }
-        ]
-    },
-    "usingComponents": {},
-    "sitemapLocation": "sitemap51.json"
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/info/info"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#fafafa",
+    "borderStyle": "white",
+    "selectedColor": "#AB956D",
+    "color": "#666",
+    "list": [
+      {
+        "selectedIconPath": "static/index-on.png",
+        "iconPath": "static/index-off.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "static/mine-on.png",
+        "iconPath": "static/mine-off.png",
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
 }

@@ -79,6 +79,11 @@
 	  text-overflow:ellipsis; /* 文字隐藏后添加省略号 */
 	  white-space:nowrap; /* 强制不换行 */
 	}
+	/*文本超出自动换行*/
+	.text2{
+		text-overflow:ellipsis;
+		word-wrap:break-word
+	}
 	.positionBottom{ /*绝对定位到屏幕底部*/
 	  position: fixed;
 	  bottom: 0;
